@@ -127,6 +127,7 @@ The final deliverable: an interactive dashboard (`Pharmaceutical_Supply_Chain.pb
 | **99,995** | **41,850** | **58,145** | **41.85%** | **548.9M units** | **627.0M units** |
 
 The single most useful insight the dashboard surfaces: **restocking cadence barely changes shortage risk** — Weekly, Monthly, and Quarterly strategies all sit within ~0.2 points of each other on understock rate, meaning the fix isn't "restock more often," it's forecasting accuracy.
+
 <img width="484" height="274" alt="Pharmaceutical_Dashboard_Snapshot" src="https://github.com/user-attachments/assets/b7f03739-41d2-4935-a88e-20c46da23c94" />
 
 ---
